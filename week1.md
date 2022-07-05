@@ -19,7 +19,8 @@
 핀테크 포털:
 1. 핀테크 포털: https://fintech.or.kr/web/user/main.do
 1. `[한국핀테크지원센터] 핀테크 특화교재 『헬로, 핀테크!』`
-
+강사소개:
+1. [고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
 
 ---
 
