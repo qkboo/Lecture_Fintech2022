@@ -12,6 +12,6 @@ Week2:
 
 4. Day4: [비즈니스 케이스 스터디#1](week2.md#day4)
 
-5. Day5: [비즈니스 케이스 스터디#1](week2.md#day5)
+5. Day5: [비즈니스 케이스 스터디#2](week2.md#day5)
 
 6. Day6: [분류 모델#1](week2.md#day6)
