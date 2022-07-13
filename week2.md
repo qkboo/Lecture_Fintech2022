@@ -32,20 +32,27 @@
 
 
 1. 회귀분석 리뷰: 보스턴 주택가격
-1. [실습: 고객별 연간 지출액 예측](notebooks/고객데이터분석-고객별연간지출액예측(회귀).ipynb)
-      - [Ecommerce Customers.csv](data/Ecommerce%20Customers.csv)
-2. 지도학습 `교안3-20지도학습-소개.pdf`(공유폴더)
 
+2. 지도학습 `교안3-20지도학습-소개.pdf`(공유폴더)
+   1. 규제
    1. [분류모델.ipynb](notebooks/3-06-분류모델.ipynb)
    2. [ex 분류](notebooks/3-07지도-분류문제ex1.ipynb)
 
 3. `교안2-30평가와성능.pdf`
    1. [지도학습-평가지표](notebooks/4-04지도학습평가.ipynb)
 
+비즈니스 케이스 스터디#1
+
+4. [실습: 고객별 연간 지출액 예측](notebooks/고객데이터분석-고객별연간지출액예측(회귀).ipynb)
+      - [Ecommerce Customers.csv](data/Ecommerce%20Customers.csv)
+
 
 # Day6
 
 비즈니스 케이스 스터디#2
+
+1. [실습: 고객별 연간 지출액 예측](notebooks/고객데이터분석-고객별연간지출액예측(회귀).ipynb)
+      - [Ecommerce Customers.csv](data/Ecommerce%20Customers.csv)
 
 트리 알고리즘:
 
