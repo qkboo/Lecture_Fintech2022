@@ -39,12 +39,8 @@
    2. [ex 분류](notebooks/3-07지도-분류문제ex1.ipynb)
 
 3. `교안2-30평가와성능.pdf`
-   1. [지도학습-평가지표](notebooks/4-04지도학습평가.ipynb)
+   1. [지도학습-평가지표](notebooks/4-01지도학습평가.ipynb)
 
-비즈니스 케이스 스터디#1
-
-4. [실습: 고객별 연간 지출액 예측](notebooks/고객데이터분석-고객별연간지출액예측(회귀).ipynb)
-      - [Ecommerce Customers.csv](data/Ecommerce%20Customers.csv)
 
 
 # Day6
@@ -56,16 +52,16 @@
 
 트리 알고리즘:
 
-1. [트리-결정트리](4-1결정트리.ipynb)
-   1.  [ex 결정트리 - 숫자분류](4-1결정트리ex-Digits.ipynb)
-1.  [트리-교차검증](4-2교차검증_그리드서치.ipynb)
-1. [트리-앙상블](4-3앙상블.ipynb)
+1. [트리-결정트리](notebooks/4-02결정트리.ipynb)
+   1.  [ex 결정트리 - 숫자분류](notebooks/4-02결정트리ex-Digits.ipynb)
+2.  [트리-교차검증](notebooks/4-03교차검증_그리드서치.ipynb)
+3. [트리-앙상블](notebooks/4-04앙상블.ipynb)
 
 
 비지도학습 : `교안2-40비지도학습.pdf`
 
-1. [스케일링](4-0스케일링.ipynb)
-2. [비지도-주성분분석](4-01비지도-주성분분석(can).ipynb)
-   1. [ex 비지도-주성분분석 실습](4-01비지도-주성분분석-교차.ipynb)
-3. [비지도-KMeans 군집](5-2비지도-KMeans1.ipynb)
-4. [비지도-이상탐지](5-4비지도-이상탐지.ipynb)
+1. [스케일링](notebooks/5-01스케일링.ipynb)
+2. [비지도-주성분분석](notebooks/5-02비지도-주성분분석(can).ipynb)
+   1. [ex 비지도-주성분분석 실습](notebooks/5-03비지도-주성분분석-교차.ipynb)
+3. [비지도-KMeans 군집](notebooks/5-04비지도-KMeans1.ipynb)
+4. [비지도-이상탐지](notebooks/5-05비지도-이상탐지.ipynb)
