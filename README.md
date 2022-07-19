@@ -15,3 +15,8 @@ Week2:
 5. Day5: [비즈니스 케이스 스터디#1](week2.md#day5)
 
 6. Day6: [비즈니스 케이스 스터디#2](week2.md#day6)
+
+
+Week3:
+
+7. Day7: [딥러닝 / 비즈니스 케이스 스터디#2](week3.md#day7)
