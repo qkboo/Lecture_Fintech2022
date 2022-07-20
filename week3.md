@@ -25,7 +25,14 @@ Week3
    - 개인 PC에서 CPU환경에서 수행
    - 구글 코랩에서 수행: [google_colab.ipynb](notebooks/google_colab.ipynb)
 
+# Day8
+딥러닝
+
+1. 구글 코랩에서 수행: [google_colab.ipynb](notebooks/google_colab.ipynb)
+
 2. [TF 준비](notebooks/50-00TensorFlow준비.ipynb)
    1. 참고: `텐서플로우GPU설치(윈도우즈).pdf` (공유폴더)
 3. `교안tf2-01Tensorflow와_Keras.(202202).pdf` (공유폴더)
    1. [Tensorflow 와 Keras](notebooks/50-01Tenorflow_Keras.ipynb)
+4. [TF 딥러닝-신경망 실습](notebooks/50-01Tenorflow_Keras2_인공신경망.ipynb)
+5. [TF 딥러닝-심층신경망 실습](notebooks/50-01Tenorflow_Keras3_심층신경망.ipynb)
