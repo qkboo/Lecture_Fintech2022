@@ -16,7 +16,7 @@ Week3
 비지도학습 : `교안5-40비지도학습.pdf`
 
 1. [비지도-주성분분석 실습](notebooks/5-03비지도-주성분분석-교차.ipynb)
-1. [비지도-KMeans 군집](notebooks/5-04비지도-KMeans1.ipynb)
+1. [비지도-KMeans 군집](notebooks/5-04비지도-군집(KMeans).ipynb)
 1. [비지도-이상탐지](notebooks/5-05비지도-이상탐지.ipynb)
 
 딥러닝
