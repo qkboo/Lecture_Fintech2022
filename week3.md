@@ -36,3 +36,33 @@ Week3
    1. [Tensorflow 와 Keras](notebooks/50-01Tenorflow_Keras.ipynb)
 4. [TF 딥러닝-신경망 실습](notebooks/50-01Tenorflow_Keras2_인공신경망.ipynb)
 5. [TF 딥러닝-심층신경망 실습](notebooks/50-01Tenorflow_Keras3_심층신경망.ipynb)
+
+
+# Day9
+
+딥러닝
+
+1. [TF 딥러닝-신경망 실습](notebooks/50-01Tenorflow_Keras2_인공신경망.ipynb)
+1. [TF 딥러닝-심층신경망 실습](notebooks/50-01Tenorflow_Keras3_심층신경망.ipynb)
+1. `교안tf2-04회귀분석(202112).pdf` (공유폴더)
+   1. [TF 딥러닝-회귀.ipynb](notebooks/50-02딥러닝-회귀.ipynb)
+
+---
+
+# Day10
+
+딥러닝
+
+1. `교안tf2-05-분류(202110).pdf` (공유폴더)
+   1. TF - 분류
+   2. TF - 이항/다항 분류
+1. `교안tf2-09ML에서DL(202201).pdf` (공유폴더)
+1. CNN
+
+
+# Day11
+
+비즈니스 케이스 스터디#3
+
+1. RNN
+1. 딥러닝 가격/주가 예측
