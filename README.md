@@ -19,4 +19,8 @@ Week2:
 
 Week3:
 
-7. Day7: [딥러닝 / 비즈니스 케이스 스터디#2](week3.md#day7)
+7. Day7: [딥러닝](week3.md#day7)
+
+8. Day8: [딥러닝 / 심층신경망](week3.md#day8)
+
+9. Day9: [딥러닝 / 회귀](week3.md#day9)
