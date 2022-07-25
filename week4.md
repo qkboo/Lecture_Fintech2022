@@ -17,7 +17,7 @@ Week3:
 
 1. `교안tf2-02ML에서DL(202201).pdf` (공유폴더)
 1. `교안tf2-04회귀분석(202112).pdf` (공유폴더)
-   1. [TF 딥러닝-회귀.ipynb](notebooks/50-02딥러닝-회귀.ipynb)
+   1. [TF 딥러닝-회귀.ipynb](notebooks/50-01딥러닝-회귀.ipynb)
 1. `교안tf2-05-분류(202110).pdf` (공유폴더)
    1. [51-03분류(f_mnist).ipynb](<notebooks/51-03분류(f_mnist).ipynb>)
    2. TF - 이항/다항 분류
